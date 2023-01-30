@@ -12,7 +12,7 @@ dependencies:
   - pyyaml
   - praatio
   - dataclassy
-  - sqlalchemy>=1.4
+  - sqlalchemy==1.4.46
   - pip
   - pynini
   - biopython

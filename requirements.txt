@@ -6,5 +6,5 @@ requests
 colorama
 biopython
 dataclassy
-sqlalchemy
+sqlalchemy==1.4.46
 ansiwrap

@@ -20,4 +20,4 @@ dependencies:
   - ngram
   - praatio
   - biopython
-  - sqlalchemy>=1.4
+  - sqlalchemy==1.4.46
